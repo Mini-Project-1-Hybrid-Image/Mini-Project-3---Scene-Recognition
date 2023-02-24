@@ -30,7 +30,7 @@
     2.Bag of words with 1nn
       Accuracy :  53.733%
       Comment : Much better than tiny image which not surprising as with bag of words we now have more sophisticated and representative representation 
-![confusion_matrix](https://user-images.githubusercontent.com/49596777/221071632-0a9abd37-f2e1-454e-8306-c2ff8b4555e2.png)
+
 
 
     3.Bag of words with Multiclass LinearSVM 
@@ -38,3 +38,4 @@
        Comment : Linear svm gives best accuracy between them all as stated with the reason behind this in the project file description 
        ![confusion_matrix](https://user-images.githubusercontent.com/49596777/221071709-b0879d6a-ff27-4a02-a84c-cb530e0338cf.png)
 
+![confusion_matrix](https://user-images.githubusercontent.com/49596777/221071790-8975cda4-a3c8-47e1-bcf6-74a36a3bf8f7.png)
