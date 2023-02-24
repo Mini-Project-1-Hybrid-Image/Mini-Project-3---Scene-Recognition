@@ -36,7 +36,7 @@
 
     3.Bag of words with Multiclass LinearSVM 
        Accuracy :66.867% ~67%
-       Comment : Linear svm gives best accuracy between them all as stated with the reason behind this in the project file description 
+       Comment : Linear svm gives best accuracy between them all 
        
 
 ![confusion_matrix](https://user-images.githubusercontent.com/49596777/221071790-8975cda4-a3c8-47e1-bcf6-74a36a3bf8f7.png)
